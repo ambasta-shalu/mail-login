@@ -1,12 +1,14 @@
 # Mail LogIn
 
-## Here are App UI snapshots 🎃🎃
+## Here are App UI snapshots 🤎
 
-I have intregrated Google's Firebase for authentication of users on server side 🤓
+<b> Functionality & Concepts used : </b>
 
-Users can sign-up in app using email address and password 🤓
+- I have intregrated Google's Firebase for authentication of users on server side 🤓
 
-After signing up users get mail on their registered email address for sake of authentication 🤓
+- Users can sign-up in app using email address and password 🤓
+
+- After signing up users get mail on their registered email address for sake of authentication 🤓
 
 
 ### These are Login and SignUp Activities UI
